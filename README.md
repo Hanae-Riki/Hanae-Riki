@@ -1,15 +1,20 @@
-### Hi there 👋, I'm [Hanae Riki]
+### Hi there 👋, I'm [Hanae-Riki]
 
+> "Talk is cheap. Show me the code."
 
+👀 **My GitHub Preview**
 
-- 🔭 I’m currently working on movies.
-- 🌱 I’m currently learning animation.
-- 👯 I’m looking to collaborate on computers.
-- 🤔 I’m looking for help with my appearance.
-- 💬 Ask me about everything!
-- 📫 How to reach me: invictussteven@mail.ustc.edu.cn
-- 😄 Pronouns: Guess it!
-- ⚡ Fun fact: Hahahaha!
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Hanae-Riki&show_icons=true&theme=radical" alt="Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanae-Riki&layout=compact&theme=radical" alt="Languages" height="150" />
+</p>
+
+🌱 **I'm now learning**
+- How to sleep well
+- How to live well
+
+📫 **Contact with me via**
+- invictussteven@mail.ustc.edu.cn
 
 <!--
 **Hanae-Riki/Hanae-Riki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
